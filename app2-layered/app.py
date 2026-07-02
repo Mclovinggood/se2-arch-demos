@@ -79,7 +79,7 @@ TEMPLATE = """
 <body>
 <div class="wrap">
   <h1>Welcome to TaskFlow <span class="badge-layer">v2 layered</span></h1>
-  <p class="sub">Same features as v1. Different inside.</p>
+  <p class="sub">Same features as v1. Different inside. - Built by Jason Hand! </p>
 
   <!-- Architecture note — visible during demo -->
   <div class="arch-note">
